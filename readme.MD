@@ -42,6 +42,7 @@ Step4: Loop through each number in the set:
        a. If the number is not the current expected number in the sequence (starting with 1 and incrementing by 1), return that number as the missing number (broken)
 
 Step5: If the loop completes without returning anything, return 0 (not broken) as the sequence is complete without any missing numbers.
+
    
 
 ## CHALLENGE 2: Find out whether the shape is a cube
@@ -77,5 +78,3 @@ Step2: Check if volume and side are greater than 0. If not, return false.
 Step3: Calculate the length, width, and height of the cuboid using the given volume and side.
 
 Step4: Check if all sides of the cuboid are equal. If so, return true. Otherwise, return false.
-
-S
